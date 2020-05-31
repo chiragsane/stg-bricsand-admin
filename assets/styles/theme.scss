@@ -1,0 +1,22 @@
+/** angular material theme **/ 
+@import "~@angular/material/theming";
+@include mat-core();
+$bricsand-admin-primary: mat-palette($mat-indigo);
+$bricsand-admin-accent: mat-palette($mat-pink, A200, A100, A400);
+$bricsand-admin-warn: mat-palette($mat-red);
+$bricsand-admin-theme: mat-light-theme(
+  $bricsand-admin-primary,
+  $bricsand-admin-accent,
+  $bricsand-admin-warn
+);
+@include angular-material-theme($bricsand-admin-theme);
+
+/** variables for bricsand theme **/ 
+:root {
+  --bsa-background-dark: #4a3c33;
+  --bsa-background-dark-contrast: #a4a6b3;
+  --bsa-background-light: #fff3eb;
+  --bsa-background-light-contrast: #252733;
+  --bsa-accent: #c04427;
+  --bsa-alert: #ff5f5f;
+}

@@ -1,0 +1,17 @@
+button[mat-raised-button],
+button[mat-flat-button] {
+  min-width: 120px;
+  background-color: var(--bsa-accent);
+  color: var(--bsa-background-light);
+}
+
+button[mat-stroked-button] {
+  min-width: 120px;
+  background-color: var(--bsa-background-light);
+  color: var(--bsa-accent);
+  border-color: var(--bsa-accent) !important;
+}
+
+.input-wrapper ::placeholder {
+  font-size: smaller;
+}

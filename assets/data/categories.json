@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Category",
+    "imageSRC": "",
+    "description": "Description of the orignal category"
+  },
+  {
+    "id": "2",
+    "name": "Some other category",
+    "imageSRC": "",
+    "description": "Description of some other category"
+  },
+  {
+    "id": "12",
+    "name": "Another category",
+    "imageSRC": "",
+    "description": "Description"
+  },
+  {
+    "id": "3",
+    "name": "A category with a really really loooooooong name",
+    "imageSRC": "",
+    "description": "The description is so long that it will be trimmed and ellipsis will be visible at the end of the column"
+  },
+  {
+    "id": "4",
+    "name": "Category X",
+    "imageSRC": "",
+    "description": "Description"
+  },
+
+  {
+    "id": "5",
+    "name": "Category Y",
+    "imageSRC": "",
+    "description": "Description"
+  },
+  {
+    "id": "6",
+    "name": "Another category with a really really loooooooong name",
+    "imageSRC": "",
+    "description": "The description is also long and it will be trimmed and ellipsis will be visible at the end of the column"
+  },
+  {
+    "id": "13",
+    "name": "Another category",
+    "imageSRC": "",
+    "description": "Description"
+  },
+  {
+    "id": "7",
+    "name": "A category with a really really loooooooong name",
+    "imageSRC": "",
+    "description": "The description is so long that it will be trimmed and ellipsis will be visible at the end of the column"
+  },
+  {
+    "id": "8",
+    "name": "Category X",
+    "imageSRC": "",
+    "description": "Description"
+  },
+
+  {
+    "id": "9",
+    "name": "Category Y",
+    "imageSRC": "",
+    "description": "Description"
+  },
+  {
+    "id": "10",
+    "name": "Another category with a really really loooooooong name",
+    "imageSRC": "",
+    "description": "The description is also long and it will be trimmed and ellipsis will be visible at the end of the column"
+  },
+  {
+    "id": "11",
+    "name": "Category Z",
+    "imageSRC": "",
+    "description": "Description"
+  }
+]

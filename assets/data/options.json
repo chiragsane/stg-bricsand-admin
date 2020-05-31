@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Category",
+    "imageSRC": "",
+    "description": "Description of the orignal category"
+  },
+  {
+    "name": "Some other category",
+    "imageSRC": "",
+    "description": "Description of some other category"
+  },
+  { "name": "Another category", "imageSRC": "", "description": "Description" },
+  {
+    "name": "A category with a really really loooooooong name",
+    "imageSRC": "",
+    "description": "The description is so long that it will be trimmed and ellipsis will be visible at the end of the column"
+  },
+  {
+    "name": "Category X",
+    "imageSRC": "",
+    "description": "Description"
+  },
+  
+  {
+    "name": "Category Y",
+    "imageSRC": "",
+    "description": "Description"
+  },
+  {
+    "name": "Another category with a really really loooooooong name",
+    "imageSRC": "",
+    "description": "The description is also long and it will be trimmed and ellipsis will be visible at the end of the column"
+  },
+  { "name": "Another category", "imageSRC": "", "description": "Description" },
+  {
+    "name": "A category with a really really loooooooong name",
+    "imageSRC": "",
+    "description": "The description is so long that it will be trimmed and ellipsis will be visible at the end of the column"
+  },
+  {
+    "name": "Category X",
+    "imageSRC": "",
+    "description": "Description"
+  },
+  
+  {
+    "name": "Category Y",
+    "imageSRC": "",
+    "description": "Description"
+  },
+  {
+    "name": "Another category with a really really loooooooong name",
+    "imageSRC": "",
+    "description": "The description is also long and it will be trimmed and ellipsis will be visible at the end of the column"
+  },
+  {
+    "name": "Category Z",
+    "imageSRC": "",
+    "description": "Description"
+  }
+]

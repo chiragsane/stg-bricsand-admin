@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Product",
+    "category": "Category",
+    "imageSRC": "",
+    "gst": 12
+  },
+  {
+    "name": "Another product",
+    "category": "Another category",
+    "imageSRC": "",
+    "gst": 10
+  },
+  {
+    "name": "Duplicate product",
+    "category": "Duplicate",
+    "imageSRC": "",
+    "gst": 8
+  },
+  {
+    "name": "Recommended Product",
+    "category": "Recommended",
+    "imageSRC": "",
+    "gst": 10
+  },
+  {
+    "name": "Product X",
+    "category": "Category X",
+    "imageSRC": "",
+    "gst": 5
+  },
+  {
+    "name": "Product Y",
+    "category": "Category Y",
+    "imageSRC": "",
+    "gst": 10
+  },
+  {
+    "name": "Product X",
+    "category": "Category X",
+    "imageSRC": "",
+    "gst": 5
+  },
+  {
+    "name": "Product Y",
+    "category": "Category Y",
+    "imageSRC": "",
+    "gst": 18
+  },
+  {
+    "name": "Product Z",
+    "category": "Category Z",
+    "imageSRC": "",
+    "gst": 5
+  },
+  {
+    "name": "Product Z",
+    "category": "Category Z",
+    "imageSRC": "",
+    "gst": 10
+  },
+  {
+    "name": "Product X",
+    "category": "Category X",
+    "imageSRC": "",
+    "gst": 5
+  }
+]
