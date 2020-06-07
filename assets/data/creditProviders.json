@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name":"HDFC",
+        "value":"HDFC",
+        "iconURL": "https://picsum.photos/50"
+    },
+    {
+        "id":2,
+        "name":"AXIS",
+        "value":"AXIS",
+        "iconURL": "https://picsum.photos/50"
+    },
+    {
+        "id":3,
+        "name":"IDBI",
+        "value":"IDBI",
+        "iconURL": "https://picsum.photos/50"
+    },
+    {
+        "id":4,
+        "name":"HDFC",
+        "value":"HDFC",
+        "iconURL": "https://picsum.photos/50"
+    },
+    {
+        "id":5,
+        "name":"HDFC",
+        "value":"HDFC",
+        "iconURL": "https://picsum.photos/50"
+    },
+    {
+        "id":6,
+        "name":"HDFC",
+        "value":"HDFC",
+        "iconURL": "https://picsum.photos/50"
+    },
+    {
+        "id":7,
+        "name":"HDFC",
+        "value":"HDFC",
+        "iconURL": "https://picsum.photos/50"
+    },
+    {
+        "id":8,
+        "name":"HDFC",
+        "value":"HDFC",
+        "iconURL": "https://picsum.photos/50"
+    },
+    {
+        "id":9,
+        "name":"HDFC",
+        "value":"HDFC",
+        "iconURL": "https://picsum.photos/50"
+    },
+    {
+        "id":10,
+        "name":"HDFC",
+        "value":"HDFC",
+        "iconURL": "https://picsum.photos/50"
+    }
+]
