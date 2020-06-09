@@ -1,0 +1,104 @@
+[
+    { 
+         "id": 1,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+         "totalNoOfOrders": 50,
+         "totalOrderValue": 78546,
+         "orderManager": "John Doe"
+    },
+    { 
+         "id": 2,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+         "totalNoOfOrders": 50,
+         "totalOrderValue": 78546,
+         "orderManager": "John Doe"
+    },
+    { 
+         "id": 3,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+         "totalNoOfOrders": 50,
+         "totalOrderValue": 78546,
+         "orderManager": "John Doe"
+    },
+    { 
+         "id": 4,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+         "totalNoOfOrders": 50,
+         "totalOrderValue": 78546,
+         "orderManager": "John Doe"
+    },
+    { 
+         "id": 5,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+         "totalNoOfOrders": 50,
+         "totalOrderValue": 78546,
+         "orderManager": "John Doe"
+    },
+    { 
+         "id": 6,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+         "totalNoOfOrders": 50,
+         "totalOrderValue": 78546,
+         "orderManager": "John Doe"
+    },
+    { 
+         "id": 7,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+         "totalNoOfOrders": 50,
+         "totalOrderValue": 78546,
+         "orderManager": "John Doe"
+    },
+    { 
+         "id": 8,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+         "totalNoOfOrders": 50,
+         "totalOrderValue": 78546,
+         "orderManager": "John Doe"
+    },
+    { 
+         "id": 9,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+         "totalNoOfOrders": 50,
+         "totalOrderValue": 78546,
+         "orderManager": "John Doe"
+    },
+    { 
+         "id": 10,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+         "totalNoOfOrders": 50,
+         "totalOrderValue": 78546,
+         "orderManager": "John Doe"
+    },
+    { 
+         "id": 11,
+         "name": "John Doe",
+         "email": "hello@gmail.com",
+         "phno": "9444581231",
+          
+         "totalNoOfOrders": 50,
+          "totalOrderValue": 78546,
+          "orderManager": "John Doe"
+    }
+] 
+
+
