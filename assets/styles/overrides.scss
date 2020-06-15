@@ -76,6 +76,7 @@ a {
         width: 120px;
         padding: 0 20px;
         color: #d7d7d7;
+        text-align: center;
         transition: all 0.2s ease-in-out;
       }
       &:hover {
@@ -92,8 +93,8 @@ a {
   position: relative;
   margin: 40px 0 20px;
   input {
-    height: 32px;
-    width: calc(100% - 24px);
+    height: 37px;
+    width: 100%;
     padding: 2px 12px 0;
     background-color: #efefef;
     border: 1px solid #d7d7d7;
@@ -102,11 +103,16 @@ a {
     text-overflow: ellipsis;
     white-space: nowrap;
     &:nth-of-type(2) {
-      width: calc(100% - 120px - 24px);
+      width: calc(100% - 120px);
+    }
+    &::-webkit-outer-spin-button,
+    &::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
     }
   }
   textarea {
-    width: calc(100% - 24px);
+    width: 100%;
     padding: 12px;
     background-color: #efefef;
     border: 1px solid #d7d7d7;
@@ -126,6 +132,9 @@ a {
     right: 0;
     width: 120px;
   }
+  .mat-checkbox-layout .mat-checkbox-label {
+    font-weight: normal;
+  }
 }
 
 mat-dialog-actions.mat-dialog-actions {
@@ -134,6 +143,24 @@ mat-dialog-actions.mat-dialog-actions {
 
 .bsa-component-wrapper {
   padding: 16px;
+  .heading {
+    font-weight: bold;
+    margin-top: 16px;
+  }
+}
+
+form.bsa-form {
+  margin-top: 40px;
+  max-width: 400px;
+  .action-buttons {
+    position: sticky;
+    bottom: 0;
+    padding: 20px 0;
+    background: white;
+    button:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
 }
 
 /* to remove mat input underline*/

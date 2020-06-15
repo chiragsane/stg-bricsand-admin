@@ -1,82 +1,58 @@
 [
   {
-    "id": "1",
-    "name": "Category",
-    "imageSRC": "",
-    "description": "Description of the orignal category"
+    "id": 6,
+    "name": "Electricals",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+    "products": [
+      {
+        "id": 4,
+        "name": "Electrical Wire",
+        "category": 6,
+        "gst": 50.0
+      }
+    ],
+    "image_url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBLZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c62761c99b5ef1e9b706c0b41f0666a492866774/ror_logo.jpg"
   },
   {
-    "id": "2",
-    "name": "Some other category",
-    "imageSRC": "",
-    "description": "Description of some other category"
+    "id": 15,
+    "name": "Wall Finish 001",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "products": [
+      {
+        "id": 5,
+        "name": "Paints",
+        "category": 15,
+        "gst": 51.0
+      }
+    ],
+    "image_url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBSUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d8774ed0d4f485eac68b00ef5851e4b4b3a6e1d4/ror_logo.jpg"
   },
   {
-    "id": "12",
-    "name": "Another category",
-    "imageSRC": "",
-    "description": "Description"
+    "id": 16,
+    "name": "Wall Finish 002",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "products": [],
+    "image_url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35c20a503493fbf4844249985512699c8450c9f6/ror_logo.jpg"
   },
   {
-    "id": "3",
-    "name": "A category with a really really loooooooong name",
-    "imageSRC": "",
-    "description": "The description is so long that it will be trimmed and ellipsis will be visible at the end of the column"
+    "id": 17,
+    "name": "Wall Finish 003",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "products": [],
+    "image_url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cfc46b8be99fcbbb439f7b3596b86efa5988dbfb/ror_logo.jpg"
   },
   {
-    "id": "4",
-    "name": "Category X",
-    "imageSRC": "",
-    "description": "Description"
-  },
-
-  {
-    "id": "5",
-    "name": "Category Y",
-    "imageSRC": "",
-    "description": "Description"
+    "id": 18,
+    "name": "Wall Finish 004",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "products": [],
+    "image_url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--36ef0ad6c1381c8efacf7463fd2013e7cd181a1d/ror_logo.jpg"
   },
   {
-    "id": "6",
-    "name": "Another category with a really really loooooooong name",
-    "imageSRC": "",
-    "description": "The description is also long and it will be trimmed and ellipsis will be visible at the end of the column"
-  },
-  {
-    "id": "13",
-    "name": "Another category",
-    "imageSRC": "",
-    "description": "Description"
-  },
-  {
-    "id": "7",
-    "name": "A category with a really really loooooooong name",
-    "imageSRC": "",
-    "description": "The description is so long that it will be trimmed and ellipsis will be visible at the end of the column"
-  },
-  {
-    "id": "8",
-    "name": "Category X",
-    "imageSRC": "",
-    "description": "Description"
-  },
-
-  {
-    "id": "9",
-    "name": "Category Y",
-    "imageSRC": "",
-    "description": "Description"
-  },
-  {
-    "id": "10",
-    "name": "Another category with a really really loooooooong name",
-    "imageSRC": "",
-    "description": "The description is also long and it will be trimmed and ellipsis will be visible at the end of the column"
-  },
-  {
-    "id": "11",
-    "name": "Category Z",
-    "imageSRC": "",
-    "description": "Description"
+    "id": 19,
+    "name": "Wall Finish 005",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "products": [],
+    "image_url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1624c860f69a9ff44a7d8e21c15e659ef169f9a/ror_logo.jpg"
   }
 ]

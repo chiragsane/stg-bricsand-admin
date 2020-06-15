@@ -1,0 +1,49 @@
+[
+  {
+    "id": 8,
+    "value": "JK Lakshmi",
+    "images": [
+      {
+        "id": 34,
+        "url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f334816c1449b0729d97c66de035533c4e8f2a1c/download%20(1).jpeg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "value": "2mm",
+    "option": {
+      "id": 3,
+      "name": "specificaion"
+    },
+    "images": []
+  },
+  {
+    "id": 12,
+    "value": "4 kgf/cm2",
+    "option": {
+      "id": 4,
+      "name": "QUALITY VARIANT"
+    },
+    "images": [
+      {
+        "id": 64,
+        "url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2f8a5977672c62ffbff597bc68ed0bfe5dd679df/download%20(1).jpeg"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "value": "4mm",
+    "option": {
+      "id": 5,
+      "name": "size"
+    },
+    "images": [
+      {
+        "id": 65,
+        "url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea1c33d0edf3fc011f880446437b0f8ed2bdf948/download%20(1).jpeg"
+      }
+    ]
+  }
+]

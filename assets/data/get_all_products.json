@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4,
+    "name": "Electrical Wire",
+    "gst": 50.0,
+    "product_url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBMQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1135f3d531091672e93730bfd38b42514a371179/download%20(1).jpeg"
+  },
+  {
+    "id": 1,
+    "name": "cement",
+    "gst": 5.99,
+    "product_url": ""
+  },
+  {
+    "id": 2,
+    "name": "Bricks",
+    "gst": 50.0,
+    "product_url": ""
+  },
+  {
+    "id": 9,
+    "name": "Wall Care Putty 02",
+    "gst": 56.0,
+    "product_url": "http://localhost:3000/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc3303bb3a0bf960ad9ba71cde39a0bae5721072/download%20(1).jpeg"
+  }
+]

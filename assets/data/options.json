@@ -1,61 +1,56 @@
 [
   {
-    "name": "Category",
-    "imageSRC": "",
-    "description": "Description of the orignal category"
+    "id": 1,
+    "name": "brand",
+    "priority": 0,
+    "option_type": {
+      "id": 1,
+      "name": "title"
+    },
+    "option_values": [
+      {
+        "id": 1,
+        "value": "ACC"
+      },
+      {
+        "id": 2,
+        "value": "Ambuja"
+      },
+      {
+        "id": 3,
+        "value": "Binani"
+      },
+      {
+        "id": 4,
+        "value": "Wonder"
+      },
+      {
+        "id": 8,
+        "value": "JK Lakshmi"
+      }
+    ]
   },
   {
-    "name": "Some other category",
-    "imageSRC": "",
-    "description": "Description of some other category"
-  },
-  { "name": "Another category", "imageSRC": "", "description": "Description" },
-  {
-    "name": "A category with a really really loooooooong name",
-    "imageSRC": "",
-    "description": "The description is so long that it will be trimmed and ellipsis will be visible at the end of the column"
-  },
-  {
-    "name": "Category X",
-    "imageSRC": "",
-    "description": "Description"
-  },
-  
-  {
-    "name": "Category Y",
-    "imageSRC": "",
-    "description": "Description"
-  },
-  {
-    "name": "Another category with a really really loooooooong name",
-    "imageSRC": "",
-    "description": "The description is also long and it will be trimmed and ellipsis will be visible at the end of the column"
-  },
-  { "name": "Another category", "imageSRC": "", "description": "Description" },
-  {
-    "name": "A category with a really really loooooooong name",
-    "imageSRC": "",
-    "description": "The description is so long that it will be trimmed and ellipsis will be visible at the end of the column"
-  },
-  {
-    "name": "Category X",
-    "imageSRC": "",
-    "description": "Description"
-  },
-  
-  {
-    "name": "Category Y",
-    "imageSRC": "",
-    "description": "Description"
-  },
-  {
-    "name": "Another category with a really really loooooooong name",
-    "imageSRC": "",
-    "description": "The description is also long and it will be trimmed and ellipsis will be visible at the end of the column"
-  },
-  {
-    "name": "Category Z",
-    "imageSRC": "",
-    "description": "Description"
+    "id": 2,
+    "name": "varient",
+    "priority": 0,
+    "option_type": {
+      "id": 1,
+      "name": "title"
+    },
+    "option_values": [
+      {
+        "id": 5,
+        "value": "Concrete Plus"
+      },
+      {
+        "id": 6,
+        "value": "Plus Roof Special"
+      },
+      {
+        "id": 7,
+        "value": "PPC"
+      }
+    ]
   }
 ]
