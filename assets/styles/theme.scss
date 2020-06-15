@@ -24,3 +24,27 @@ $bricsand-admin-theme: mat-light-theme(
   --bsa-negative: #DA1414;
   --bsa-negative-light: #FEEFEF;
 }
+.accent-clr{
+  color: var(--bsa-accent);
+}
+.accent-bg{
+  background-color: var(--bsa-accent);
+}
+.alert-clr{
+  color: var(--bsa-alert);
+}
+.alert-bg{
+  background-color: var(--bsa-alert);
+}
+.positive-clr{
+  color: var(--bsa-positive);
+}
+.positive-bg{
+  background-color: var(--bsa-positive);
+}
+.negative-clr{
+  color: var(--bsa-negative);
+}
+.negative-bg{
+  background-color: var(--bsa-negative);
+}
